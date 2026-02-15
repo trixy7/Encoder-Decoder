@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://trixy7.github.io/encoder-decoder/sitemap.xml
+Sitemap: https://trixy7.github.io/encoder/sitemap.xml
+
