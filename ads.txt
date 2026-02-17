@@ -1,2 +1,0 @@
-OWNERDOMAIN=trixy7.github.io/encoder
-advertica.com, 251289, DIRECT
